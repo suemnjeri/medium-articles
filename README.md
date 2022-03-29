@@ -1,4 +1,4 @@
-# Code for Medium Articles
+# Code and Data Files for Medium Articles
 This repository contains files to back articles written on my medium URL https://medium.com/@suemnjeri.
 
 Articles backed by the code here.
