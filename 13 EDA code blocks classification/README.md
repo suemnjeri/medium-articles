@@ -14,7 +14,7 @@ Project consists of a demonstration of the 13 code blocks for an EDA project for
 
 <h2>Environments Used </h2>
 
-- <b>Windows</b> (21H2)
+- <b>Windows</b>
 
 
 

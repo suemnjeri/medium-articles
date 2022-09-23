@@ -14,7 +14,7 @@ This Project is a tutorial on how to use python libraries such as pandas, json, 
 
 <h2>Environments Used </h2>
 
-- <b>Windows</b> (21H2)
+- <b>Windows</b>
 
 
 
