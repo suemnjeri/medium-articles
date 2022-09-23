@@ -4,11 +4,15 @@ This repository contains files to back articles written on my medium URL https:/
 Articles backed by the code here.
 ### Exploratory Data Analysis (EDA) Articles on medium
 - [11 Essential Code Blocks for Complete EDA (Exploratory Data Analysis)-Regression Task](https://towardsdatascience.com/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd) Find the [Code and data files here](https://github.com/suemnjeri/medium-articles/tree/main/melbourne)
-- [13 Key Code Blocks for EDA-Classification Task](https://towardsdatascience.com/13-key-code-blocks-for-eda-classification-task-94890622be57). Code is [here](https://github.com/suemnjeri/medium-articles/blob/main/HR%20EDA%20Full%20for%20medium.ipynb)
+- [13 Key Code Blocks for EDA-Classification Task](https://towardsdatascience.com/13-key-code-blocks-for-eda-classification-task-94890622be57). Code is [here](https://github.com/suemnjeri/medium-articles/blob/main/13%20EDA%20code%20blocks%20classification/HR%20EDA%20Full%20for%20medium.ipynb)
 - [Data Answers the ‘Are You Too Old to Learn Coding’ Timeless Question](https://towardsdatascience.com/this-data-answers-the-am-i-too-old-to-learn-coding-timeless-question-70deba5d294f). Find the code and data files [here](https://github.com/suemnjeri/stackoverflow2020)
 
+### Visualization using Seaborn on medium
+- [8 Seaborn Plots for Univariate Exploratory Data Analysis (EDA) in Python](https://towardsdatascience.com/8-seaborn-plots-for-univariate-exploratory-data-analysis-eda-in-python-9d280b6fe67f)
+- [10 Must-know Seaborn Visualization Plots for Multivariate Data Analysis in Python](https://towardsdatascience.com/10-must-know-seaborn-functions-for-multivariate-data-analysis-in-python-7ba94847b117)
+
 ### Pandas articles on medium
-- [Lambda Functions with Practical Examples in Python](https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8) Find the code [here](https://github.com/suemnjeri/medium-articles/blob/main/Lambda%20functions%20in%20python.ipynb)
+- [Lambda Functions with Practical Examples in Python](https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8) Find the code [here](https://github.com/suemnjeri/medium-articles/blob/main/Lambda%20functions/Lambda%20functions%20in%20python.ipynb)
 - [Filter a Pandas DataFrame by a Partial String or Pattern in 8 Ways](https://towardsdatascience.com/8-ways-to-filter-a-pandas-dataframe-by-a-partial-string-or-pattern-49f43279c50f). Code is [here](https://github.com/suemnjeri/Filtering-a-DataFrame/tree/master).
 - [Functions That Generate a Multi-index in Pandas and How to Remove the Levels](https://towardsdatascience.com/functions-that-generate-a-multiindex-in-pandas-and-how-to-remove-the-levels-7aa15ac7ca95). The code and data files are [here](https://github.com/suemnjeri/medium-articles/tree/main/multiindex).
 - [A Pandas Tutorial Highlighting 8 Essential Functionalities](https://towardsdatascience.com/8-pandas-functionalities-for-every-data-scientist-f2cd3d890795). The code and data files are [here](https://github.com/suemnjeri/medium-articles/tree/d44fcd70d67e7704627ca7c58ee2652cfad6a9f2/Pandas%20functions).
@@ -26,5 +30,5 @@ Articles backed by the code here.
 - [Fundamentals of Linear Regression for Machine Learning](https://towardsdatascience.com/fundamentals-of-linear-regression-for-machine-learning-87d684007dee). Find the code [here](https://github.com/suemnjeri/medium-articles/blob/main/Linear%20Regression%20using%20boston%20dataset.ipynb).
 - [Preventing Overfitting with Lasso, Ridge and Elastic-net Regularization in Machine Learning](https://towardsdatascience.com/preventing-overfitting-with-lasso-ridge-and-elastic-net-regularization-in-machine-learning-d1799b05d382). The data and code files are [here](https://github.com/suemnjeri/medium-articles/tree/main/regularization)
 - [What is Model Complexity? Compare Linear Regression to Decision Trees to Random Forests](https://towardsdatascience.com/what-is-model-complexity-compare-linear-regression-to-decision-trees-to-random-forests-7ec837b062a9). 
-  Here is the [Code](https://github.com/suemnjeri/medium-articles/blob/main/Cosine%20Simulated%20Data%20for%20medium%202.ipynb)
+  Here is the [Code](https://github.com/suemnjeri/medium-articles/blob/main/Model%20complexity%20ML/Cosine%20Simulated%20Data%20for%20medium%202.ipynb)
 
