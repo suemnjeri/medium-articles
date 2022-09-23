@@ -3,7 +3,7 @@
  ### [Blog post on medium](https://towardsdatascience.com/13-key-code-blocks-for-eda-classification-task-94890622be57)
 
 <h2>Description</h2>
-Project consistsof a demonstration of the 13 code blocks for an EDA project for a HR classification dataset on Kaggle. These blocks of code are important to give you a top-level understanding of the dataset and its features.
+Project consists of a demonstration of the 13 code blocks for an EDA project for a HR classification dataset on Kaggle. These blocks of code are important to give you a top-level understanding of the dataset and its features.
 <br />
 
 
