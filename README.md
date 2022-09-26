@@ -3,7 +3,7 @@ This repository contains files to back articles written on my medium URL https:/
 
 Articles backed by the code here.
 ### Exploratory Data Analysis (EDA) Articles on medium
-- [11 Essential Code Blocks for Complete EDA (Exploratory Data Analysis)-Regression Task](https://towardsdatascience.com/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd) Find the [Code and data files here](https://github.com/suemnjeri/medium-articles/tree/main/melbourne)
+- [11 Essential Code Blocks for Complete EDA (Exploratory Data Analysis)-Regression Task](https://towardsdatascience.com/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd) Find the [Code here](https://github.com/suemnjeri/medium-articles/blob/main/11%20EDA%20blocks%20melbourne%20data%20and%20code/EDA_melbourne_for_medium.ipynb)
 - [13 Key Code Blocks for EDA-Classification Task](https://towardsdatascience.com/13-key-code-blocks-for-eda-classification-task-94890622be57). Code is [here](https://github.com/suemnjeri/medium-articles/blob/main/13%20EDA%20code%20blocks%20classification/HR%20EDA%20Full%20for%20medium.ipynb)
 - [Data Answers the ‘Are You Too Old to Learn Coding’ Timeless Question](https://towardsdatascience.com/this-data-answers-the-am-i-too-old-to-learn-coding-timeless-question-70deba5d294f). Find the code and data files [here](https://github.com/suemnjeri/stackoverflow2020)
 
